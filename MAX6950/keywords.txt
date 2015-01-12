@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For MAX6950
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MX6950                       KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+set_digital                   KEYWORD2
+init                          KEYWORD2
+config_reg                    KEYWORD2
+intensity_reg                 KEYWORD2
+decode_reg                    KEYWORD2
+test_reg                      KEYWORD2
+set_digital_dot               KEYWORD2
+set_digital_decode            KEYWORD2
+set_digital_dot_decode        KEYWORD2
+IP_display                    KEYWORD2
+temp_hum_display              KEYWORD2
+blink                         KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
